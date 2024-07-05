@@ -25,3 +25,19 @@ The seating arrangement model is implemented with the following layers:
 - Output Layer
   
 This architecture is designed to process the generated data and optimize the seating arrangements effectively.
+
+## Causal Convolution
+
+A Causal Convolution is a type of convolution used in neural networks for sequential data processing. It ensures that the output at a given time step depends only on the current and previous time steps, preserving the temporal order of data. This is crucial for tasks like time series forecasting and autoregressive models, where future inputs should not influence the current output.
+
+## Dilated Convolution
+
+A Dilated Convolution is a type of convolution that uses a dilation factor to increase the receptive field of the filter without increasing the number of parameters or the amount of computation. This allows the network to capture wider context in the input data, which is particularly useful for tasks requiring long-range dependencies, such as image segmentation and time series analysis.
+
+## Residuals
+
+Residuals in a statistical or machine learning model are the differences between observed and predicted values of data. They are a diagnostic measure used when assessing the quality of a model. They are also known as errors.
+
+## Skip Connections
+
+Skip Connections (or Shortcut Connections) as the name suggests skips some of the layers in the neural network and feeds the output of one layer as the input to the next layers. 
