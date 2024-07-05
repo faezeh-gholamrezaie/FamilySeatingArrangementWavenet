@@ -3,7 +3,7 @@
 This repository contains a project that leverages Wavenet technology to optimize family seating arrangements. The goal is to arrange individuals in a way that maximizes compatibility and minimizes conflicts.
 
 <div align="center">
-    <img width="40%" src="https://github.com/faezeh-gholamrezaie/FamilySeatingArrangementWavenet/blob/main/Wavenet_Seating_arrangement.png">
+    <img width="80%" src="https://github.com/faezeh-gholamrezaie/FamilySeatingArrangementWavenet/blob/main/Wavenet_Seating_arrangement.png">
 </div>
 
 Project Overview
