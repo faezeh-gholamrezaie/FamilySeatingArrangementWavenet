@@ -23,4 +23,5 @@ The seating arrangement model is implemented with the following layers:
 - Embedding Layer
 - Flatten Consecutive Layer
 - Output Layer
+  
 This architecture is designed to process the generated data and optimize the seating arrangements effectively.
