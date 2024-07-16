@@ -41,3 +41,7 @@ Residuals in a statistical or machine learning model are the differences between
 ## Skip Connections
 
 Skip Connections (or Shortcut Connections) as the name suggests skips some of the layers in the neural network and feeds the output of one layer as the input to the next layers. 
+
+# Resource 
+
+https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part5_cnn1.ipynb
